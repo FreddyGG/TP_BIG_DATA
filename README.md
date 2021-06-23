@@ -10,7 +10,7 @@ Archivos correspondientes a la programación que permite realizar un análisis d
 Este trabajo práctico permite hacer el análisis de sentimientos de los tweets que mencionen cierta palabra o tema, en este caso la Energía Solar.
 
 **Herramientas**
-* Google Colaboratoty
+* Google Colaboratory
 * Twitter API Key
 
 **Lenguaje:**
